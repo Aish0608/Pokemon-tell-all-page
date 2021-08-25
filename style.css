@@ -445,6 +445,9 @@ ul.u1 {
                   background-color: black;
                   color: white;
               }
+ .foot.socialIcons{
+        justify-content: space-evenly;
+    }
 
 
 
