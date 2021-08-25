@@ -447,7 +447,9 @@ ul.u1 {
                   color: white;
               }
 
-
+             .foot.socialIcons{
+        justify-content: space-evenly;
+    }
 
 
 
